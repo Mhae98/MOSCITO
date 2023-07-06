@@ -6,11 +6,6 @@ import numpy as np
 from pyemma.coordinates.data.feature_reader import FeatureReader
 from pyemma.coordinates.data.featurization.featurizer import MDFeaturizer
 
-# TODO: Remove warning suppression
-import warnings
-
-warnings.filterwarnings('ignore')
-
 
 class FeatureSelector:
     """
