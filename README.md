@@ -28,7 +28,7 @@ feature_selector = FeatureSelector(trajectory, topology)
 feature = feature_selector.get_backbone_torsions()
 ```
 
-### 2. Run TSC
+### 2. Run MOSCITO
 ```python
 from moscito import MOSCITO
 
