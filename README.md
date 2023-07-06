@@ -4,8 +4,8 @@ Code for master thesis
 
 ## Requirements
 For running the code the following libraries are required:
-- Pyemma 2.5.12
-- [pypardiso 0.4.2] (https://github.com/haasad/PyPardisoProject)
+- [Pyemma 2.5.12](http://www.emma-project.org)
+- [pypardiso 0.4.2](https://github.com/haasad/PyPardisoProject)
 
 ## Usage
 
